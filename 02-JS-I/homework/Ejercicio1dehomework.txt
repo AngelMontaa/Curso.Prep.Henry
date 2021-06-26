@@ -1,0 +1,7 @@
+Variables: Estas son como cajitas, en donde se guardan datos o informacion para utilizarlas despues. Se le puede dar un valor a algo. Este comando se ejecuta mediante el comando var
+Strings: Estos son un tipo de dato. Es decir uno de las formas en que se puede guardar informacion o datos. Se usa generalmente para textos. Estas se ingresan entre comillas
+Funciones: Las funciones se utilizan para determinar una serie de acciones en ella. Se les puede poner un nombre para despues acceder a ella facilmente. Su comando es function () {}
+Argumentos: Estos son los valores que le voy a entregar a la funcion para que trabaje en su serie de acciones con ellos. Se escribe entre los parentesis ()
+return: La declaracion return es para que la consola me muestre cierto resultado dentro de una funcion. Es decir si no le pido que me entregue el resultado de cierta operacion esta no me la devolvera. Cuando la funcion llega a un return valido las acciones posteriores indicadas en la funcion no se ejecutaran.
+if: Esta se puede traducir al español como: Si es que. Esta sirve para indicarle a la funcion cuando quiera pedirle a la funcion una condicion.
+Valores Booleanos: Estos son otro tipo de dato (Junto con los numbers). Estos estan basados en el sistema binario, nos entrega True o False (Verdadero o falso). Es decir: Positivo o negativo, 1 o 0, 
