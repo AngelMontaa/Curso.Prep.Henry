@@ -1,0 +1,13 @@
+Objetos: A diferencia de un arreglo. Los objetos pueden contener muchos datos e informacion.
+Estos se llaman con {}. Los objetos no se dividen en indices (0, 1 ,2, etc) estos se dividen en clave: valor
+(Propiedad: Valor, etc)
+Propiedades: Las propiedades son unicas en un objeto. No pueden haber dos con el mismo nombre.
+Son las contenedoras de los valores.
+Metodos: Se llaman metodos principalmente a las funciones que estan dentro de un objeto
+For... in: Ya que los objetos no estan divididos por indices, Javascript tiene una forma de recorrer el objeto con un for
+esta se declara con una variable, una palabra clave que recorrera el objeto, in y el nombre del objeto.
+por ejemplo: for (Var clave in objeto). Podemos acceder al valor de una propiedad en un bucle for con corchetes.
+por ejemplo: console.log objeto[clave].
+Corchetes vs punto(Bracket notation vs dot notation): En corchetes se puede acceder a una variable con el valor de una propiedad,
+con punto no. Para acceder directamente al nombre de una propiedad hay que colocarle comillas a la palabra.
+Dot notatios es mas rapido y es el que mas usaremos.

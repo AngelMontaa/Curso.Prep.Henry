@@ -1,0 +1,12 @@
+ For : For es una declaracion utilizada para crear un bucle. Un bucle es realizar una accion, movimiento, etc de forma repetitiva.
+Es utilizada para no realizar muchas declaraciones que necesiten un resultado mas bien repetitivo. Se declara: for
+seguida de () en los que dentro en primer lugar se declara una variable, luego separado por punto y coma se dictamina una condicion
+para que el for se ejecute o deje de ejecutarse, luego tambien previamente separado por punto y coma, se le aumenta generalmente
+el valor de la variable generalmente en 1. Posterior a cerar el parentesis se puede imprimir o ejecutar un bloque de codigos
+cerrado entre {}, siempre y cuando la condicion especificada sea verdadera. Ejemplo:  for(var a = 0; a <= 50, a++) { BLOQUE DE CODIGO }
+
+&& : Es un operador logico, estos sirven para darle continuacion a una condicion. En este caso se puede traducir como: 'Y si'.
+     Es decir si una condicion dada: es true y (&&) la siguiente es true
+|| : Operador logico, que puede traducirse como ' o ', es decir: si la condicion es true o (||) la siguiente es true. Se evalua siempre la primera
+! : Operador logico, esta se puede traducir como 'negacion'; es decir: negar el valor especificado. True seria false y false seria true,
+     un 1 no seria un 1, etc.
