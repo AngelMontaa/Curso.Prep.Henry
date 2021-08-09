@@ -1,0 +1,2 @@
+Se les llama callbacks a las funciones que son pasadas como argumento a otra funcion. Lo mas utilizado es usar cb en el argumento que sera pasado
+como funcion en la nueva funcion.

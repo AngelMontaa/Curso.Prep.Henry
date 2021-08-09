@@ -1,0 +1,2 @@
+Arrays: Se puede pensar en estas como una coleccion de datos que se deseen. En estas podemos podemos agregar funciones, variables, booleanos,
+numeros, strings.

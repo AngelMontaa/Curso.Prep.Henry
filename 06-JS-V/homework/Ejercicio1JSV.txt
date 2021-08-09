@@ -1,0 +1,5 @@
+Prototype: la declaracion .Prototype sirve para no sobrecargar la memoria de la cpu con funciones que utilizare varias veces en la creacion de
+objetos de un construcctor o clase. Esta se guarda en la memoria. Se guarda en el prototype (Que es como todas las declaraciones
+de un objeto que se tienen por herencia) por ejemplo de una clase, y al crear el nuevo objeto este objeto tambien tendra en su prototype dicha
+funcion.
+construcctor de clase: Esta son como las declaraciones usadas en la creacion de una clase para el posterior uso en un objeto
